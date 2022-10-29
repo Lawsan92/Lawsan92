@@ -1,6 +1,6 @@
 ### Hello I'm Lawrence 👋
 
-<h2>I'm a fullstack javascript engineer from Rome, IT that loves building applications and solving problems </h2>
+<h2>I'm a fullstack javascript engineer that loves building applications and solving problems </h2>
 
 ---
 
