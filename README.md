@@ -1,8 +1,10 @@
-### Hello I'm Lawrence 👋
+<div align='center'>
+  <img src='https://res.cloudinary.com/darp0mj9i/image/upload/v1667094743/samples/x3x5w638kkixi9s3h3vw_hsz3uf.gif'/>
+</div>
 
-<h2>I'm a fullstack javascript engineer that loves building applications and solving problems </h2>
+<h2 align='center'> Hello I'm Lawrence 👋 </h1> 
 
----
+<h2 align='center'>I'm a fullstack javascript engineer that loves building applications and solving problems </h2>
 
 - 🔭 I’m currently working on my portfolio <a href='https://github.com/Lawsan92/portfolio'><a/>. 
 - 🌱 I’m currently learning React-Native
@@ -18,7 +20,8 @@
 ## Languages and tools
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+ 
+![Javascript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React_Native](https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
