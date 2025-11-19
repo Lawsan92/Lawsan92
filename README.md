@@ -14,22 +14,27 @@
 
 
 - 📫 How to reach me:
-<div>
+
 <a href="https://www.linkedin.com/in/lawrencesanzogni/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img 
+  src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+  alt=linkedin 
+  style="margin-bottom: 5px; margin-left: 50px;" />
 </a>  
-</div>  
+
 
 --- 
 
 ### Programming languages:
  
 ![Javascript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+
+### Markdown & Styles
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 
-### Backend 
+### Techstacks
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
