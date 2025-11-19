@@ -22,33 +22,13 @@
   style="margin-bottom: 5px; margin-left: 50px;" />
 </a>  
 
-
 --- 
 
 ### Programming languages:
  
 ![Javascript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
-### Markdown & Styles
-![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-
-### Techstacks
-
-![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
-![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
-
-### Devtools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ---
 ## My Stats 
