@@ -24,11 +24,12 @@
 
 --- 
 
-### Programming languages:
- 
-![Javascript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+### Programming languages & Technologies:
+* ![Python](https://img.shields.io/badge/Python-yellow?logo=python) ![Django](https://img.shields.io/badge/Django-green?logo=django) 
+* ![Javascript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/NodeJS-white?logo=nodedotjs) ![React](https://img.shields.io/badge/React-white?logo=react) 
+* ![Java](https://img.shields.io/badge/Java-red?logo=coffeescript) ![SpringBoot](https://img.shields.io/badge/SpringBoot-white?logo=springboot) 
+* ![Lua](https://img.shields.io/badge/Lua-black?logo=lua) ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-black?logo=microbit&logoColor=white)
+* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)
 
 ---
 ## My Stats 
