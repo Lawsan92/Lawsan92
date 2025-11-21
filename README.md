@@ -11,6 +11,7 @@
   * WGUPS Parcel Delivery: https://github.com/Lawsan92/WGUPS-Parcel-Delivery-Service
   * DocScraper: https://github.com/Lawsan92/docscraper
   * Fabiosarts: https://github.com/Lawsan92/fabiosarts
+  * Flaamenco(aka SDC): https://github.com/Team-Dagobah/SDC-Ratings-and-Reviews
 
 
 - 📫 How to reach me:
