@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://res.cloudinary.com/ducqdbpaw/image/upload/v1763575148/__ny3yrk.png' style='width: 600px'/>
+  <img src='https://res.cloudinary.com/ducqdbpaw/image/upload/v1763575148/portfolio/__ny3yrk.png' style='width: 600px'/>
 </div>
 
 <h2 align='center'> Hi, I'm Lawrence 👋 </h1> 
