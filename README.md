@@ -7,12 +7,12 @@
 <h2 align='center'>I'm a software engineer who enjoys developing scalable fullstack solutions.</h2>
 
 * 🔭 Feel free to browse some of my projects:
+  * ***Portfolio: https://github.com/Lawsan92/portfolio***
   * SiteScan: https://github.com/Lawsan92/SiteScan
   * WGUPS Parcel Delivery: https://github.com/Lawsan92/WGUPS-Parcel-Delivery-Service
   * DocScraper: https://github.com/Lawsan92/docscraper
   * Fabiosarts: https://github.com/Lawsan92/fabiosarts
   * Flaamenco(aka SDC): https://github.com/Team-Dagobah/SDC-Ratings-and-Reviews
-
 
 - 📫 How to reach me:
 
